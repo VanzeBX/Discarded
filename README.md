@@ -1,4 +1,4 @@
-
+# Plz read me
   Hi!
   Is me, Vanze
   I hope u guys learn well off this tech and it took us a long time to get this tech to where it is
